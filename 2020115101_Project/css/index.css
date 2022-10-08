@@ -1,0 +1,315 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    display:flex;
+    padding-top:2px;
+}
+
+.navele{
+    padding-left:30px;
+    padding-right:30px;
+    list-style-type: none;
+    padding-top:40px;
+    font-size: 17px; 
+}
+
+.navele1{
+    padding-left:30px;
+    padding-right:30px;
+    list-style-type: none;
+    padding-top:40px;
+    font-size: 17px; 
+}
+
+.nav1{
+    padding-left:30px;
+    padding-right:30px;
+    list-style-type: none;
+    padding-top:40px;
+    font-size: 17px;
+}
+#one{
+    padding-top:0px;
+    padding-left:50px;
+    padding-right:10px;
+}
+
+#two{
+    margin-right:250px;
+    padding-left:5px;
+    border-left:2px solid black;
+    font-size:29px;
+}
+
+.hlinks{
+    text-decoration: none;
+    color:black;
+}
+
+.hlinks:hover{
+    color: gray;
+}
+
+.navele1:hover{
+    transform: scale(1.5);
+}
+
+.Title{
+    text-decoration: none;
+    color:black;
+}
+
+.ending{
+    background-color: black;
+    color:white;
+}
+
+.end{
+    display: flex;
+}
+
+.container1{
+    flex:3;
+    padding-top:5px;
+    padding-left:60px;
+    padding-right:5px;
+    padding-bottom:5px;
+    font-size:13px;
+}
+
+.flinks{
+    text-decoration: none;
+    color:white;
+}
+
+.flinks:hover{
+    color:gray;
+}
+.a2{
+    list-style-type:none;
+}
+
+.phone{
+    text-decoration: none;
+    color:white;
+}
+
+.phone:hover{
+    color:gray;
+}
+
+.logos{
+    display:flex;
+}
+
+.a1{
+    list-style-type:none ;
+    padding-right:15px;
+}
+
+.logo1:hover{
+    transform: scale(1.5);
+}
+
+.copyright{
+    text-align:center;
+    font-size:12px;
+}
+
+.gotop{
+    color:white;
+    text-decoration: none;
+}
+
+.gotop:hover{
+    color:gray;
+}
+
+.textone{
+    height:20px;
+}
+
+.buttonone{
+    height:24px;
+    background-color: cyan;
+    border:2px solid gray;
+}
+
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .iconnav{
+    display:flex;
+  }
+  
+  .iconele{
+    flex:3;
+    list-style-type:none;
+    padding:30px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:130px;
+    margin-bottom:80px;
+    border:3px solid black;
+    border-radius:7px;
+    background-color:white;
+  }
+
+  .iconspic{
+      padding-left:32px;
+  }
+
+
+  .iconh{
+      text-align: center;
+  }
+
+  .iconele:hover{
+      background-color: rgba(0, 0, 0, 0.281);
+      transform: scale(1.5);
+      transition:all 0.6s ease-in-out;
+      color:white;
+  }
+
+  .contindex{
+      background:linear-gradient(white,black);
+  }
+
+.ratcont{
+    display:flex;
+    flex-direction: column;
+}  
+
+.containerrat{
+    flex:3;
+    padding:20px;
+    margin:20px;
+}
+
+.rev0{
+    text-align: center;
+}
+
+.rev1{
+    font-size:20px;
+}
+
+
+.appul{
+    padding-left:30px
+}
+.appul0{
+    padding-left:30px
+}
+
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  
+  }
+  
+  .accordion:hover {
+    background-color: #ccc; 
+  }
+  
+  .panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+   
+  }
+
+  .tocartclean{
+      padding:20px;
+      align-content: center;
+  }
+
+.tocartapp{
+ padding-right: 40px;
+ padding-left: 40px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ background-color: white;
+ margin-left:44%;
+ cursor: pointer;
+}
+
+.tocartapp:hover{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    transition:all 0.6s ease-in-out;
+}
+
+.contain{
+    display:flex;
+    padding:20px;
+    list-style-type: none;
+}
+
+.conele{
+    padding:20px;
+    list-style-type: none;
+    padding-right:0px
+}
+
+.left{
+    list-style-type: none;
+}
+
+.tobill{
+    text-decoration: none;
+    color:black;
+    align-content: center;
+}
+
+.tobill:hover{
+    color:gray;
+}
+
+.abtus{
+    font-size:20px;
+    line-height: 40px;
+    padding-left:20px;
+
+}
